@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Java-Encryption-Library:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_Encryption_Library_jar</output-path>
+    <root id="archive" name="Java-Encryption-Library.jar">
+      <element id="module-output" name="Java-Encryption-Library" />
+    </root>
+  </artifact>
+</component>
